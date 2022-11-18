@@ -2,7 +2,7 @@
 ![logo](https://user-images.githubusercontent.com/47925079/192454232-d7bd051b-c225-4047-b844-4c77cc761eeb.png)
 
 ## 프로젝트 소개
-덕후를 위한 후기 블로깅 서비스
+### 덕후를 위한 후기 블로깅 서비스✏️        
 본 서비스는 이화여자대학교 그로쓰3팀의 졸업프로젝트작 입니다.
 
 > 배포 주소: [my-tcat.com](https://my-tcat.com)
