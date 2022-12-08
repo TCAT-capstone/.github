@@ -59,7 +59,12 @@
 
 ## 시스템 구성도
 ![졸프 구성도](https://user-images.githubusercontent.com/47925079/202392373-c9a1028e-615f-4adf-b406-f85b85e70a3b.png)
-    
+
+## 레포지토리
+- [프론트엔드](https://github.com/TCAT-capstone/frontend)
+- [백엔드](https://github.com/TCAT-capstone/backend)
+- [OCR API](https://github.com/TCAT-capstone/ocr-api)
+- [OCR 전처리](https://github.com/TCAT-capstone/ocr-preprocessor)
 
 ## 관련 링크
 - [Github](https://github.com/TCAT-capstone)
