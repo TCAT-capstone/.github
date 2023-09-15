@@ -27,13 +27,6 @@
 - 다양한 후기를 검색해보세요. 제목, 일시, 장소, 좌석 별 검색도 가능해요!
 
 
-## 팀원 소개
-|[<img src="https://github.com/bokyungkim.png" width="100px">](https://github.com/bokyungkim)|[<img src="https://github.com/hyunk-go.png" width="100px">](https://github.com/hyunk-go)|[<img src="https://github.com/mminjg.png" width="100px">](https://github.com/mminjg)
-|:---:|:---:|:---:|
-|[1771009 김보경](https://github.com/bokyungkim)|[1903011 김가현](https://github.com/hyunk-go)|[1971002 강민지](https://github.com/mminjg)|
-|프론트|백|풀스택&서버|
-
-
 ## 기술 스택
 <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
