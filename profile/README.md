@@ -5,7 +5,7 @@
 ### 덕후를 위한 후기 블로깅 서비스✏️        
 본 서비스는 그로쓰3팀의 졸업프로젝트작 입니다.
 
-> 배포 주소: [my-tcat.com](https://my-tcat.com)
+> 배포 주소: ~~[my-tcat.com](https://my-tcat.com)~~ 서비스 종료
 
 > 시연 영상: [youtu.be/fr6lNIhMFek](https://youtu.be/fr6lNIhMFek)
 
